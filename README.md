@@ -58,7 +58,7 @@ How It Works
 [Job Description & Resume Selection](https://github.com/Bharath-nakka/ai-powered-resume-screening-and-ranking-system/blob/main/Screenshot%202025-03-20%20134904.png?raw=true)  
 
 ### 📊 Resume Ranking Results  
-![Ranking Results](screenshots/ranking_results.png)  
+![Ranking Results](https://github.com/Bharath-nakka/ai-powered-resume-screening-and-ranking-system/blob/main/Screenshot%202025-03-17%20151858.png?raw=true)  
  
 
 Future Enhancements  
