@@ -51,11 +51,11 @@ How It Works
  
  📸 Screenshots  
 
-### 🏠 Home Page  
+Initial Interface
 ![Initial Interfae](https://github.com/Bharath-nakka/ai-powered-resume-screening-and-ranking-system/blob/main/Screenshot%202025-03-17%20151522.png?raw=true)  
 
-### 📂 Uploading Resumes  
-![Uploading Resumes](screenshots/upload_resume.png)  
+Job Description & Resume Selection 
+[Job Description & Resume Selection]()  
 
 ### 📊 Resume Ranking Results  
 ![Ranking Results](screenshots/ranking_results.png)  
