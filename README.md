@@ -51,11 +51,11 @@ How It Works
  
  📸 Screenshots  
 
-Initial Interface
+### Initial Interface
 ![Initial Interfae](https://github.com/Bharath-nakka/ai-powered-resume-screening-and-ranking-system/blob/main/Screenshot%202025-03-17%20151522.png?raw=true)  
 
-Job Description & Resume Selection 
-[Job Description & Resume Selection]()  
+### Job Description & Resume Selection 
+[Job Description & Resume Selection](https://github.com/Bharath-nakka/ai-powered-resume-screening-and-ranking-system/blob/main/Screenshot%202025-03-20%20134904.png?raw=true)  
 
 ### 📊 Resume Ranking Results  
 ![Ranking Results](screenshots/ranking_results.png)  
